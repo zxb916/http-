@@ -1,0 +1,13 @@
+{
+  "server": {
+    "ThreadCount": 100,
+    "MaxIdleConn": 100,
+    "Timeout": 60,
+    "RequestCount": 5,
+    "Debug": true
+  },
+  "files": {
+    "paths": "D:/DevelopSoft/goidea/workspace/goclient/com.weiai.www/request.txt",
+    "url": "https://blog.csdn.net/zxb730916/article/details/98471080"
+  }
+}
